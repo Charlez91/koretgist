@@ -17,17 +17,17 @@
 
 @font-face{
     font-family: Aileron-Bold;
-    src: url("/blog/static/blog/fonts/Aileron/Aileron-Bold.otf");
+    src: url("/static/blog/fonts/Aileron/Aileron-Bold.otf");
 }
 
 @font-face {
     font-family: nagoda;
-    src: url("/blog/static/blog/fonts/Nagoda DCU/Nagoda.otf");
+    src: url("/static/blog/fonts/Nagoda_DCU/Nagoda.otf");
 }
 
 @font-face {
     font-family: monolith;
-    src: url("/blog/static/blog/fonts/Nagoda DCU/MonolithFreebie-LightItalic.otf");
+    src: url("blog/static/blog/fonts/Nagoda_DCU/MonolithFreebie-LightItalic.otf");
 }
 
 html{ font-size: 100%; height: 100%;  overflow-x: hidden; touch-action: manipulation; }

@@ -4,10 +4,20 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
 
 [packages]
 twine = "*"
 bumpversion = "*"
+django = "*"
+mysqlclient = "*"
+python-dotenv = "*"
+django-ckeditor = "*"
+django-crispy-forms = "*"
+django-taggit = "*"
+django-filter = "*"
+djangorestframework = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
